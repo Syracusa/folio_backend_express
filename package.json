@@ -1,0 +1,22 @@
+{
+  "name": "folio_backend_express",
+  "version": "1.0.0",
+  "description": "Backend server of folio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syracusa/folio_backend_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syracusa/folio_backend_express/issues"
+  },
+  "homepage": "https://github.com/Syracusa/folio_backend_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
